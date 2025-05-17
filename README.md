@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Siempre me he considerado alguien que le encata crear cosas nuevas, ver las cosas de diferente manera y buscar formas de hacer las cosas</p>
+<p align="left">Siempre me he considerado alguien que le encata crear cosas nuevas, ver las cosas de diferente manera y buscar formas de hacer un cambio o algo inovador</p>
 
 <p align="left">Para los que ven mi perfil, soy Camilo Muñoz programador, con un pasatiempo en la seguridad informatica y siempre en busca de hacer una diferencia real tanto en el mundo como en las personas</p>
 
