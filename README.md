@@ -19,10 +19,16 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p><strong>👋 Hola, soy Camilo Muñoz</strong></p>
 
-<p align="left">Siempre me he considerado alguien que le encata crear cosas nuevas, ver las cosas de diferente manera y buscar formas de hacer un cambio o algo inovador</p>
+<p>Siempre he sentido una atracción natural por crear, cuestionar lo establecido y buscar nuevas formas de hacer las cosas. No me basta con seguir el camino marcado; me gusta redibujar el mapa.</p>
 
-<p align="left">Para los que ven mi perfil, soy Camilo Muñoz programador, con un pasatiempo en la seguridad informatica y siempre en busca de hacer una diferencia real tanto en el mundo como en las personas</p>
+<p>💻 Soy programador, curioso por naturaleza, con una pasión particular por la seguridad informática. Más que solo escribir código, busco generar impacto real: soluciones que hagan una diferencia — en el mundo y en las personas.</p>
+
+<p>🌍 Creo que la tecnología es una herramienta poderosa para cambiar realidades. Por eso, cada proyecto que toco, lo intento transformar en algo significativo.</p>
+
+<p>📫 ¿Charlamos o colaboramos en algo interesante? Estoy siempre abierto a nuevas ideas y retos.</p>
+
 
 ###
 
